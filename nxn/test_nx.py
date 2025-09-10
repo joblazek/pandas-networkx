@@ -42,5 +42,4 @@ def nodes():
         nodes.append(node)
     return nodes
 
-def test_to_numpy():
 
